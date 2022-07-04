@@ -2,7 +2,7 @@ Olá !
 
 Sou Lucas, sou da área de T.I e faço gestão de mais de 12 empresas na parte de infraestrutura de network e administração de servidores
 
-Estou começando no ramo da programação e atualmente realizando uma facul de Cyberseguraça.
+Estou começando no ramo da programação e atualmente realizando uma facul de Cybersegurança.
 
 Principais linguagens: '> PHP <' . '>Python<' .
 
