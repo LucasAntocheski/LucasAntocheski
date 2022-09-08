@@ -1,11 +1,10 @@
-Olá !
+Hey there !
 
-Sou Lucas, sou da área de T.I e faço gestão de mais de 12 empresas na parte de infraestrutura de network e administração de servidores
+I'm Lucas, I'm from the IT area and I manage more than 12 companies in the area of network infrastructure and server administration
 
-Estou começando no ramo da programação e atualmente realizando uma facul de Cybersegurança.
+I'm starting in the programming field and currently doing a Cybersecurity college.
 
-Principais linguagens: '> PHP <' . '>Python<' .
-
+Main languages: '> PHP <' . '>Python<' .
 
 
 <!---
