@@ -2,7 +2,7 @@ Hey there !
 
 I'm Lucas, I'm from the IT area and I manage more than 12 companies in the area of network infrastructure and server administration
 
-I'm starting in the programming field and currently doing a Cybersecurity college.
+I'm starting in the programming field
 
 Main languages: '> PHP <' . '>Python<' .
 
