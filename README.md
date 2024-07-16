@@ -1,10 +1,10 @@
-Hey there !
+Olá!
 
-I'm Lucas, I'm from the IT area and I manage more than 12 companies in the area of network infrastructure and server administration
+Sou o Lucas e atualmente sou empresário na Revo Intelligence.
 
-I'm starting in the programming field
+Dentro da empresa implantei vários projetos de infra de rede + administração da mesma, estou inserido em vários projetos empresáriais de melhoria constante tanto de infraestrutura quanto de demandas dos clientes.
 
-Main languages: '> PHP <' . '>Python<' .
+Atualmente estou cursando faculdade de redes de computadores e realizando cursos de programação. Hoje programo em PHP e Javascript, possuo conhecimentos também de CSS...Porém o ponto forte é o Back-End.
 
 
 <!---
