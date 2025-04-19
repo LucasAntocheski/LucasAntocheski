@@ -19,7 +19,7 @@ _____________________________________________
 
 Linguagens & Tecnologias: `PHP`, `JavaScript`, `HTML`, `CSS`,`SCSS`\
 Projetos em destaque: [Em Breve](https://#) <br><br>
-
+_____________________________________________
 <br>
 
 ##  Minhas Redes Sociais:
