@@ -9,7 +9,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `PHP`, `JavaScript`, `HTML`, `CSS`,`SCSS`, `Alma_Linux`, `Windows Server`\
 Projetos em destaque: [Em Breve](https://#/) 
 <br/>
-Minhas Redes Sociais:
+
 <br>
 <p align="left">
     <a href="https://www.linkedin.com/in/lucas-antocheski-souza-88945b267/" title="LinkedIn">
@@ -27,6 +27,7 @@ Minhas Redes Sociais:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github"/></code>
 
 
 ---
