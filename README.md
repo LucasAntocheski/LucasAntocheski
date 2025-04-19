@@ -2,7 +2,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" width= "200px" height= "69px" alt="Warpnet" src="https://revo.tec.br/sprintsrevo/assets/logo_revo.jpg"/>](https://revo.tec.br/)
+[<img align="left" width= "200px" height= "74px" alt="Warpnet" src="https://revo.tec.br/sprintsrevo/assets/logo_revo.jpg"/>](https://revo.tec.br/)
 
 **PHP Developer** , **Linux Administrator**, **Windows Server Administrator** \
 [**Revo Intelligence**](https://revo.tec.br/) • Full-time \
