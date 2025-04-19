@@ -9,9 +9,12 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `PHP`, `JavaScript`, `HTML`, `CSS`,`SCSS`, `Alma_Linux`, `Windows Server`\
 Projetos em destaque: [Projeto de Sprints](https://github.com/user-attachments/assets/ac4e3f58-6572-4386-82f3-6d2b7d4b80d3) <br>
 _____________________________________________
-<img height= "76px" position= "relative" left= "11px" top= "-11px" alt="Warpnet" src="https://github.com/user-attachments/assets/0f84672a-f408-4100-9c44-1a5918cc6882"/>
-Projetos em pessoais: [Projeto de Sprints](https://github.com/user-attachments/assets/ac4e3f58-6572-4386-82f3-6d2b7d4b80d3) <br>
-<br/><br>
+[<img align="left" width= "200px" height= "74px" alt="Warpnet" src="https://revo.tec.br/sprintsrevo/assets/logo_revo.jpg"/>](https://revo.tec.br/)
+
+**PHP Developer** , **Linux Administrator**, **Windows Server Administrator** \
+[**Revo Intelligence**](https://revo.tec.br/) • Full-time \
+Linguagens & Tecnologias: `PHP`, `JavaScript`, `HTML`, `CSS`,`SCSS`, `Alma_Linux`, `Windows Server`\
+Projetos em destaque: [Projeto de Sprints](https://github.com/user-attachments/assets/ac4e3f58-6572-4386-82f3-6d2b7d4b80d3) <br><br>
 
 <br>
 <p align="left">
