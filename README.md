@@ -7,7 +7,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **PHP Developer** , **Linux Administrator**, **Windows Server Administrator** \
 [**Revo Intelligence**](https://revo.tec.br/) • Full-time \
 Linguagens & Tecnologias: `PHP`, `JavaScript`, `HTML`, `CSS`,`SCSS`, `Alma_Linux`, `Windows Server`\
-Projetos em destaque: [Projeto de Sprints](https://github.com/LucasAntocheski/Projeto_Sprints/blob/main/Untitled.gif) 
+Projetos em destaque: [Projeto de Sprints](https://github.com/user-attachments/assets/ac4e3f58-6572-4386-82f3-6d2b7d4b80d3) 
 <br/>
 
 <br>
