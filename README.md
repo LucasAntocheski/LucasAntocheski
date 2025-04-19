@@ -9,7 +9,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `PHP`, `JavaScript`, `HTML`, `CSS`,`SCSS`, `Alma_Linux`, `Windows Server`\
 Projetos em destaque: [Em Breve](https://#/) 
 <br/>
-
+Minhas Redes Sociais:
+<br>
 <p align="left">
     <a href="https://www.linkedin.com/in/lucas-antocheski-souza-88945b267/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-antocheski-souza-88945b267/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=br" alt="LinkedIn"/></a>
