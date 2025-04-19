@@ -18,7 +18,7 @@ _____________________________________________
 **PHP Developer** \
 
 Linguagens & Tecnologias: `PHP`, `JavaScript`, `HTML`, `CSS`,`SCSS`\
-Projetos em destaque: [Projeto Sistema de Gestão](https://#) <br><br>
+Projetos em destaque: [Em Breve](https://#) <br><br>
 
 <br>
 <p align="left">
