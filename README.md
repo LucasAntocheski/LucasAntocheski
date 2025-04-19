@@ -9,7 +9,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `PHP`, `JavaScript`, `HTML`, `CSS`,`SCSS`, `Alma_Linux`, `Windows Server`\
 Projetos em destaque: [Projeto de Sprints](https://github.com/user-attachments/assets/ac4e3f58-6572-4386-82f3-6d2b7d4b80d3) <br>
 _____________________________________________
-[<img align="left" width= "135px" height= "93px" alt="Warpnet" src="https://github.com/user-attachments/assets/e962c380-11b3-4c8d-bde1-d70fd653b22a"/>](https://revo.tec.br/)
+[<img align="left" width= "135px" height= "93px" alt="Warpnet" src="https://github.com/user-attachments/assets/e962c380-11b3-4c8d-bde1-d70fd653b22a"/>]
 
 
 
