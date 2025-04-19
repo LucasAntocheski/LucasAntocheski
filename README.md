@@ -10,7 +10,7 @@ Linguagens & Tecnologias: `PHP`, `JavaScript`, `HTML`, `CSS`,`SCSS`, `Alma_Linux
 Projetos em destaque: [Projeto de Sprints](https://github.com/user-attachments/assets/ac4e3f58-6572-4386-82f3-6d2b7d4b80d3) <br>
 _____________________________________________
 <img height= "76px" position= "relative" left= "11px" top= "-11px" alt="Warpnet" src="https://github.com/user-attachments/assets/0f84672a-f408-4100-9c44-1a5918cc6882"/>
-Projetos Pessoais: [Sistema de Gestão]()
+Projetos Pessoais: [Sistema de Gestão](https://#)
 <br/><br>
 
 <br>
