@@ -14,14 +14,6 @@ _____________________________________________
 
 
 
-
-**Projetos Pessoais: PHP Developer** 
-
-Linguagens & Tecnologias: `PHP`, `JavaScript`, `HTML`, `CSS`,`SCSS`\
-Projetos em destaque: [Em Breve](https://#) <br><br>
-_____________________________________________
-<br>
-
 ##  Minhas Redes Sociais:
 
 <p align="left">
