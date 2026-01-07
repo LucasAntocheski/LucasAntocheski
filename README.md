@@ -5,7 +5,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" width= "200px" height= "74px" alt="Warpnet" src="https://revo.tec.br/wp-content/uploads/2022/07/logo-revo-intelligence-300x123.webp"/>](https://revo.tec.br/)
 
 **PHP Developer** , **Linux Administrator**, **Windows Server Administrator** \
-[**Revo Intelligence**](https://revo.tec.br/) • Full-time \
+[**Revo Intelligence**](https://revo.tec.br/)  \
 Linguagens & Tecnologias: `PHP`, `JavaScript`, `HTML`, `CSS`,`SCSS`, `Alma_Linux`, `Windows Server`\
 Projetos em destaque: [Projeto de Sprints](https://github.com/user-attachments/assets/ac4e3f58-6572-4386-82f3-6d2b7d4b80d3) <br>
 _____________________________________________
