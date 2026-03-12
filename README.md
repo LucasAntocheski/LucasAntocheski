@@ -10,7 +10,7 @@ Linguagens & Tecnologias: `PHP`, `JavaScript`, `HTML`, `CSS`,`SCSS`, `Alma_Linux
 Projetos em destaque: [Projeto de Sprints](https://github.com/user-attachments/assets/ac4e3f58-6572-4386-82f3-6d2b7d4b80d3) <br>
 _____________________________________________
 Projetos Pessoais:
-[Prever.life](https://prever.life/)
+[Prever.life](https://prever.life/)<br>
 [Novacasih Modas](https://novacasih.com.br/)
 
 
