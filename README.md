@@ -11,7 +11,7 @@ Projetos em destaque: [Projeto de Sprints](https://github.com/user-attachments/a
 _____________________________________________
 Projetos Pessoais:<br>
 Criação de LandingPage: [Prever.life](https://prever.life/)<br>
-Ajuste em Menu, Check-out de loja e performance: [Novacasih Modas](https://novacasih.com.br/)
+Ajuste em Menu, Check-out de loja, filtros personalizados e performance: [Novacasih Modas](https://novacasih.com.br/)
 
 
 
