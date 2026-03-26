@@ -3,6 +3,8 @@ Projetos Pessoais:<br>
 Criação de LandingPage: [Prever.life](https://prever.life/)<br>
 Ajuste em Menu, Check-out de loja, filtros personalizados e performance: [Novacasih Modas](https://novacasih.com.br/)
 
+[Sistema de Gestão Financeira - Focada para Clinicas veterinárias e Pets](https://youtube.com/playlist?list=PLutzJS_BtVB1oUq5B8K3rBUQwxXRgYE4c&si=PHE14USmvzy7XCrx) 
+
 Linguagens & Tecnologias: `PHP`, `JavaScript`, `HTML`, `CSS`,`SCSS`, `Alma_Linux`
 
 
